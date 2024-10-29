@@ -21,3 +21,15 @@
    - [4.2. Outil de gestion de projet ](#)
    - [4.3. Planning et suivi](#)
 
+## 5. Architecture et configuration technique
+   - [5.1. Architecture logicielle](#)
+   - [5.2. Configuration du repository](#)
+        - [5.2.1 Branches (dev, main, features)](#)
+        - [5.2.2 Workflows CI/CD](#)
+        - [5.2.3 Templates pour issues et PR](#)
+        - [5.2.4 Guides de contribution](#)
+   - [5.3. Technologies et Benchmark](#)
+   - [5.4. Spécifications techniques](#)
+        - [5.4.1 Merise](#)
+        - [5.4.1 Diagrammes UML](#) 
+
