@@ -39,3 +39,9 @@
    - [6.3. Use-cases](#)
    - [6.4. RBAC](#)
    
+## 7. Sécurité de l'application
+   - [7.1. Défense en profondeur](#)
+   - [7.2. Réduction de la surface d'attaque ](#)
+   - [7.3. Politique de moindre privilège](#)
+   - [7.4. Conformité RGPD](#)
+
