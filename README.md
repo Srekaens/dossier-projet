@@ -51,3 +51,8 @@
    - [8.3. Composants d'accès aux données](#)
    - [8.4. Autres composants](#)
 
+## 9. Plan de tests
+   - [9.1. Tests unitaires](#)
+   - [9.2. Tests d'intégration ](#)
+   - [9.3. Tests end-to-end ](#)
+
