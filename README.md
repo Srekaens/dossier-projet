@@ -33,3 +33,9 @@
         - [5.4.1 Merise](#)
         - [5.4.1 Diagrammes UML](#) 
 
+## 6. Conception fonctionnelle
+   - [6.1. Livrables](#)
+   - [6.2. Maquettes](#)
+   - [6.3. Use-cases](#)
+   - [6.4. RBAC](#)
+   
