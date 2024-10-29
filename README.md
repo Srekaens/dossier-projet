@@ -65,3 +65,9 @@
    - [11.2. Procédure de déploiement](#)
    - [11.3. Maintenance applicative](#)
 
+## 12. Veille technologique et sécurité
+   - [12.1. Vulnérabilités rencontrées](#)
+   - [12.2. Failles corrigées](#)
+   - [12.3. Sources de veille](#)
+
+
