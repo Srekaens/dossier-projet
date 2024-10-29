@@ -60,3 +60,8 @@
 
    - [10.1. Présentation du jeu d'essai](#)
 
+## 11. Déploiement et maintenance
+   - [11.1. DevOps](#)
+   - [11.2. Procédure de déploiement](#)
+   - [11.3. Maintenance applicative](#)
+
