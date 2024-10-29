@@ -56,3 +56,7 @@
    - [9.2. Tests d'intégration ](#)
    - [9.3. Tests end-to-end ](#)
 
+## 10. Jeu d'essai
+
+   - [10.1. Présentation du jeu d'essai](#)
+
