@@ -16,3 +16,8 @@
    - [3.2. Exigences fonctionnelles ](#)
    - [3.3. Exigences non fonctionnelles ](#)
 
+## 4. Gestion de projet
+   - [4.1. Méthodologie](#)
+   - [4.2. Outil de gestion de projet ](#)
+   - [4.3. Planning et suivi](#)
+
