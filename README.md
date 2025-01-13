@@ -5,15 +5,15 @@
 - [Objectif du dossier](./doc/01-introduction/02-objectif-dossier.md)
 - [Liste des compétences mises en œuvre](./doc/01-introduction/03-liste-competences.md)
 
-## Expression des besoins
-- [Contexte](./doc/02-expression-besoins/01-contexte.md)
-- [Enjeux](./doc/02-expression-besoins/02-enjeux.md)
-- [Analyse des besoins](./doc/02-expression-besoins/03-analyse-besoins.md)
-- [Personnas](./doc/02-expression-besoins/04-personnas.md)
-
 ## Présentation du client et des équipes
-- [Présentation du client](./doc/03-presentation-client-equipes/01-presentation-client.md)
-- [Présentation des équipes](./doc/03-presentation-client-equipes/02-presentation-equipes.md)
+- [Présentation du client](./doc/02-presentation-client-equipes/01-presentation-client.md)
+- [Présentation des équipes](./doc/02-presentation-client-equipes/02-presentation-equipes.md)
+
+## Expression des besoins
+- [Contexte](./doc/03-expression-besoins/01-contexte.md)
+- [Enjeux](./doc/03-expression-besoins/02-enjeux.md)
+- [Analyse des besoins](./doc/03-expression-besoins/03-analyse-besoins.md)
+- [Personnas](./doc/03-expression-besoins/04-personnas.md)
 
 ## Gestion de projet
 - [Méthodologie de projet](./doc/04-gestion-projet/01-methodologie-projet.md)
