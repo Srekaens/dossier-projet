@@ -6,8 +6,8 @@
 - [Liste des compétences mises en œuvre](./doc/01-introduction/03-liste-competences.md)
 
 ## Présentation du client et des équipes
-- [Présentation du client](./doc/02-presentation-client-equipes/01-presentation-client.md)
-- [Présentation des équipes](./doc/02-presentation-client-equipes/02-presentation-equipes.md)
+- [Présentation du client](./doc/02-presentation/01-presentation-client.md)
+- [Présentation des équipes](./doc/02-presentation/02-presentation-service.md)
 
 ## Expression des besoins
 - [Contexte](./doc/03-expression-besoins/01-contexte.md)
