@@ -1,42 +1,31 @@
-<table>
-    <tr>
-        <td align="center">Problématiques</td>
-        <td align="center">Problèmes</td>
-        <td align="center">Solution</td>
-    </tr>
-    <tr>
-        <td rowspan="3" align="center"><strong>Automatisation de la collecte</strong></td>
-        <td align="center">Le processus de collecte des retours des apprenants est souvent manuel</td>
-        <td align="center"><a href="#">Intégrer un bot de feedback pour automatiser la collecte et le suivi des retours des apprenants</a></td>
-    </tr>
-    <tr>
-        <td align="center">Les rappels pour les retours peuvent être ignorés par les apprenants</td>
-        <td align="center"><a href="">Utiliser le bot pour envoyer des rappels personnalisés et automatisés pour encourager les retours</a></td>
-    </tr>
-    <tr>
-        <td align="center">L'analyse des retours manuels peut entraîner des erreurs humaines</td>
-        <td align="center"><a href="#">Mettre en place des outils d'analyse intégrés au bot pour traiter les retours et générer des rapports automatiques</a></td>
-    </tr>
-    <tr>
-       <td rowspan="2" align="center"><strong>Uniformisation du formulaire</strong></td>
-       <td align="center">Les informations recueillies sont souvent trop vagues pour être exploitables</td>
-        <td align="center"><a href="#">Proposer des questions précises via le bot pour obtenir des retours clairs et exploitables</a></td>
-    </tr>
-    <tr>
-        <td align="center">Les retours peuvent être dispersés sur plusieurs plateformes, rendant leur suivi difficile</td>
-        <td align="center"><a href="#">Centraliser la collecte des retours via le bot sur une plateforme unique pour simplifier l'analyse</a></td>
-    </tr>
-    <tr>
-        <td align="center"><strong>Manque d'ergonomie</strong></td>
-        <td align="center">Les apprenants trouvent le système de feedback difficile à naviguer</td>
-        <td align="center"><a href="#">Améliorer l'interface du bot pour qu'elle soit plus intuitive et facile à utiliser</a></td>
-    </tr>
-    <tr>
-       <td rowspan="2" align="center"><strong>Erreur de casting</strong></td>
-        <td align="center">L'apprenant trouve que le rythme de la formation ne correspond pas à son propre rythme de progression</td>
-        <td rowspan="2 "align="center"><a href="#">Utiliser le bot pour recueillir des retours sur le rythme et ajuster le contenu en conséquence</a></td>
-    </tr>
-    <tr>
-        <td align="center">Rythme émis par le formateur non adapté au groupe</td>
-    </tr>
-</table>
+# Exigences fonctionnelles
+
+1. **Notifications automatiques** :
+   - Le bot doit permettre l’envoi de messages automatiques en messages privés ou dans un canal.
+   - Le bot doit permettre la configuration des rappels envoyés en messages privés ou dans un canal
+   - Le bot doit permettre de personnaliser le contenu des messages envoyés en messages privés ou dans un canal
+
+2. **Sondages exclusivement sur Discord** :
+   - Le bot doit permettre la gestion de sondages directement via Discord.
+
+3. **Personnalisation de la portée des sondages** :
+   - Le bot doit permettre de créer des sondages ciblant des groupes spécifiques ou toute la communauté.
+
+4. **Sondages standardisés et non standardisés** :
+   - Le bot doit permettre la gestion de sondages standardisés (questions fixes) et non standardisés (questions personnalisées).
+
+5. **Automatisation des sondages** :
+   - Le bot doit permettre l’automatisation des envois de sondages à des dates précises, en fonction des étapes du parcours des apprenants.
+   - Le bot doit permettre l'ajout des réponses afin de générer des statistiques
+
+6. **Sécurité et confidentialité des données** :
+   - Le bot doit permettre la protection des données collectées, avec conformité RGPD.
+   - Le bot doit permettre l’anonymisation des réponses pour garantir la confidentialité des participants.
+
+7. **Facilité d'utilisation** :
+   - Le bot doit permettre une utilisation simple avec une interface intuitive.
+   - Le bot doit simplifier la reception des sondages aux apprenants.
+   - Le bot doit permettre une gestion fluide des sondages et des notifications, réduisant le besoin d’interventions manuelles.
+
+8. **Formulaires existants non modifiés** :
+   - Le bot ne doit pas modifier les formulaires existants (région, Qualiopi, Simplon).
