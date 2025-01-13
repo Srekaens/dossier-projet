@@ -7,7 +7,7 @@
 
 ## Expression des besoins
 - [Contexte](./doc/02-expression-besoins/01-contexte.md)
-- [ENjeux](./doc/02-expression-besoins/02-enjeux.md)
+- [Enjeux](./doc/02-expression-besoins/02-enjeux.md)
 - [Analyse des besoins](./doc/02-expression-besoins/03-analyse-besoins.md)
 - [Personnas](./doc/02-expression-besoins/04-personnas.md)
 
